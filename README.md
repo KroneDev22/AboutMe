@@ -2,4 +2,6 @@
 ---
 [__HOME__](https://kronedev22.github.io)
 
+[__Projects__](https://kronedev22.github.io/Projects/)
+
 ---
