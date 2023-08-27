@@ -29,4 +29,4 @@ As a hobby, I picked up Blender, and have been using it now for two years. I wou
 It may come off as generic, but I love games, both making and playing. My favourite genre to play would be co-op RPGs, though I also enjoy competitive PvP games. When it comes to making them, the feeling when a prototype becomes a game is second to none.
 
 Away from the computer I don't have many interests these days, though I do enjoy snowboarding (only done it once) and indoor rock climbing (bouldering specifically). 
-Growing up I enjoyed a lot of different sports such as Rugby league mostly, basketball, and tennis to name a few. My love for Rugby league faded a bit in 2012~ as other team members no longer played it for fun, and were negative even during the positive times. 
+Growing up I enjoyed a lot of different sports such as Rugby league mostly, basketball, and tennis to name a few.
