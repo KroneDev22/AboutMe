@@ -22,7 +22,7 @@
 
 Hello, I'm Brendon, a currently studying game programmer based on the Gold Coast.
 
-I’ve had the idea of being a game programmer since I was in year seven (2010). In the last few years I have gotten comfortable working in Unity with C#, and have recently been learning about Unreal Engine 5. 
+I’ve had the idea of being a game programmer since I was in year seven (2010). In the last few years I have gotten comfortable working in Unity with C#, and have recently been learning about Godot, and Unreal Engine 5. 
 Using Unity, I have made two games as a solo dev, and plan on making more. I make use of the KISS principle, because I find it makes things easier when working with a team. 
 As a hobby, I picked up Blender, and have been using it now for two years. I would consider myself a bit of a jack of all trades. 
 
